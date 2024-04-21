@@ -1,0 +1,32 @@
+{
+  "name": "randombytes-adapter",
+  "description": "Random bytes adapter module, support CommonJS ",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "./index.js",
+  "keywords": [
+    "crypto",
+    "random",
+    "adapter",
+    "commonjs"
+  ],
+  "author": {
+    "name": "guyoung"
+  },
+  "homepage": "https://github.com/guyoung/randombytes-adapter",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guyoung/randombytes-adapter"
+  },
+  "files": [
+    "README.md",
+    "examples",
+    "LICENSE",
+    "index.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "mersenne-twister": "^1.1.0",
+    "safe-buffer": "^5.2.1"
+  }
+}

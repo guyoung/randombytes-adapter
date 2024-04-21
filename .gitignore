@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+travis.log
+.vscode
+.idea
+.*.swp
+**/*.DS_Store
+.node-version
+
+examples/node/package.json
+examples/node/package-lock.json
