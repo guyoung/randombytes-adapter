@@ -1,6 +1,6 @@
 # randombytes-adapter
 
-Fecth API adapter module, support CommonJS
+Random bytes adapter module, support CommonJS 
 
 
 ## Usage
